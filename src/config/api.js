@@ -1,4 +1,5 @@
-const HOST = 'http://localhost:5000'
+// const HOST = 'http://localhost:5000'
+const HOST = 'https://tree-view-33epvp0wy-hasibur-rahmans-projects.vercel.app'
 
 const BASE_URL=`${HOST}/api`
 
